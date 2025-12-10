@@ -29,7 +29,6 @@ Setelah masuk ke folder project Flutter, jalankan :
   <img width="1365" height="677" alt="Screenshot 2025-12-10 084414" src="https://github.com/user-attachments/assets/7034ab26-e692-49de-bcf9-c5751f137c40" />
   <img width="1365" height="674" alt="Screenshot 2025-12-10 084728" src="https://github.com/user-attachments/assets/4257cb93-4900-4a7c-a7c7-2e7c80dc717f" />
   <img width="1008" height="553" alt="Screenshot 2025-12-10 102159" src="https://github.com/user-attachments/assets/099601d7-692b-4980-80ad-9fb6ec144967" />
-  <img width="1365" height="674" alt="Screenshot 2025-12-10 084728" src="https://github.com/user-attachments/assets/837edc41-0d16-48e1-8aa2-1f9d5055ee76" />
   <img width="1365" height="672" alt="Screenshot 2025-12-10 093034" src="https://github.com/user-attachments/assets/80812041-e697-4b75-bcdb-bcce89722e47" />
   <img width="1365" height="575" alt="Screenshot 2025-12-10 084755" src="https://github.com/user-attachments/assets/5a3e0cff-7dd7-4f27-9291-ddedd1d2d4a0" />
   <img width="1365" height="681" alt="Screenshot 2025-12-10 091749" src="https://github.com/user-attachments/assets/d590df05-b721-4200-89c6-2ba5dee264d2" />
