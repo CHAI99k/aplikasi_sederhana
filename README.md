@@ -1,17 +1,21 @@
 # Nama Aplikasi 
-Relaxy Music
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+GOKS MUSIC
+# Deskripsi Singkat Aplikasi
+Aplikasi Goks Music adalah aplikasi pemutar musik sederhana berbasis Flutter yang menampilkan daftar lagu populer, album terbaik, dan informasi lagu yang sedang diputar. Aplikasi ini memiliki tampilan modern dengan desain clean dan responsif. Pengguna dapat melihat detail lagu, album, serta mengakses halaman login dan dashboard secara mudah.
+# Fitur Fitur utama Aplikasi
+1. Login Page
+- Validasi email & password
+- Navigasi otomatis ke dashboard setelah login
+2. Dashboard Music
+- Menampilkan Now Playing
+- Menampilkan Popular Songs lengkap dengan gambar, judul, dan artis
+- Menampilkan Top Albums dalam bentuk grid
+- Tombol play pada setiap lagu
+- Tombol logout untuk kembali ke halaman login
+3. UI Modern
+- Menggunakan warna utama deep purple
+- Card dengan shadow halus
+- Gambar album dan lagu dengan ClipRRect
+- Desain responsif untuk Web & Android
+# Cara Jalankan 
+1. git clone
