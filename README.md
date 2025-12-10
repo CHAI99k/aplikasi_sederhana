@@ -1,4 +1,5 @@
-# aplikasi_sederhana
+# Nama Aplikasi 
+Relaxy Music
 
 A new Flutter project.
 
