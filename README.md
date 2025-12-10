@@ -24,5 +24,5 @@ Aplikasi Goks Music adalah aplikasi pemutar musik sederhana berbasis Flutter yan
 Setelah masuk ke folder project Flutter, jalankan :
 - flutter pub get
 - flutter run
-Atau mau lebih cepat
+Atau mau lebih cepat :
 - flutter run -d chrome
