@@ -18,4 +18,4 @@ Aplikasi Goks Music adalah aplikasi pemutar musik sederhana berbasis Flutter yan
 - Gambar album dan lagu dengan ClipRRect
 - Desain responsif untuk Web & Android
 # Cara Jalankan 
-1. git clone
+1. git clone https://github.com/CHAI99K/
